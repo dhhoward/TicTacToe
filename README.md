@@ -3,6 +3,8 @@
  Each data set will contain a 9 letter string.  
  Each 9 letter string contains a complete tic tac toe game.
 
+ Import zip into Eclipse as "Project from Folder or Archive"
+
 ```
 Input:
 5# of data sets in the file -  5
